@@ -7,14 +7,17 @@
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
     "icons": [
-      {
-        "src": "/images/eagle.png",
-        "type": "image/png", "sizes": "980x420"
-      }
-       
       
+       
+      {
+        "src": "/images/work.png",
+        "type": "image/png", "sizes": "360x360"
+      }
      
-     
+      {
+        "src": "/images/weel.png",
+        "type": "image/png", "sizes": "360x360"
+      }
       
     ]
   }
